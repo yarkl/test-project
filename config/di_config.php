@@ -41,7 +41,7 @@ return [
     },
     'bin_api_url' => 'https://lookup.binlist.net/',
     //TODO Remove before pushing to repository
-    'exchange_api_key' => 'S0KgY4EVuH2CEKdH3s6UyTP37u8OSgzo',
+    'exchange_api_key' => '',
     'exchange_api_url' => 'https://api.apilayer.com/exchangerates_data/latest?base=EUR',
     'european_countries_short_codes' => [
         'AT', 'BE', 'BG', 'CY', 'CZ', 'DE', 'DK', 'EE', 'ES', 'FI', 'FR', 'GR', 'HR', 'HU', 'IE', 'IT', 'LT', 'LU',
