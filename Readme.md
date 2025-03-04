@@ -10,6 +10,6 @@
 
 <h2>5. To run real code create an account at https://apilayer.com/marketplace/exchangerates_data-api?live_demo=show exchange rate api and get at token. Fill in the field "exchange_api_key" di_config.php file with a token you have created.</h2>
 
-<h2>6. Place a file with transaction data a "files" directory</h2>
+<h2>6. Place a file with transaction data in a "files" directory</h2>
 
 <h2>7. Run app: php index.php </h2>
